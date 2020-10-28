@@ -1,5 +1,4 @@
 # artificial-intelligence-course-in-UU
-artificial intelligence course in UU
 assignments:
 1. A* path finding
 2. Hidden markov model & breadth first path finding
